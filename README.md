@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Pranjal 👋
 
-<!--
-**55Pranjal/55Pranjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building real-world applications using the MERN stack.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- KIIT Events – Event discovery and management platform
+- Uni-Connect – Real-time community messaging platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+JavaScript • React • Node.js • Express • MongoDB • Socket.io • Tailwind
+
+## 📫 Contact
+Email: 567pranjalagarwal@gmail.com
+LinkedIn: linkedin.com/in/pranjal-agarwal
