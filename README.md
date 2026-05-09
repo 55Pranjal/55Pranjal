@@ -33,7 +33,7 @@ React • HTML • CSS • Tailwind CSS
 Node.js • Express.js • REST APIs • Socket.io
 
 **Database**
-MongoDB
+MongoDB, PostgreSQL
 
 **Tools**
 Git • GitHub • Postman
