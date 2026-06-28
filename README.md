@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://pranjal-ag.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/pranjal-agarwal-23279b309/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:567pranjalagarwal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://drive.google.com/file/d/1EQ1WmAjW7840mjDWwTzE4s4N3fZ0zwso/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
@@ -18,6 +19,8 @@
 - 🎓 B.Tech, Computer Science @ **KIIT** (Expected 2027) · CGPA **8.7 / 10**
 - ⚡ I work end-to-end — REST APIs, real-time systems with **Socket.io**, and polished **React / Next.js** interfaces — increasingly where software meets **AI** and **hardware**.
 - ☁️ **5× Google Cloud certified.**
+- 🔭 Currently building **Pricify** & **Digital Twin**, and extending **Floex VR** with a patient-physiology model.
+- 🌐 Portfolio: **[pranjal-ag.netlify.app](https://pranjal-ag.netlify.app/)**
 - 💡 Passionate about building impactful products that solve real-world problems.
 
 ---
@@ -94,14 +97,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=55Pranjal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=55Pranjal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=55Pranjal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=55Pranjal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
 ### 📫 Connect
 
+- 🌐 Portfolio — [pranjal-ag.netlify.app](https://pranjal-ag.netlify.app/)
 - 💼 LinkedIn — [pranjal-agarwal](https://www.linkedin.com/in/pranjal-agarwal-23279b309/)
 - 📧 Email — [567pranjalagarwal@gmail.com](mailto:567pranjalagarwal@gmail.com)
 - 📄 [Résumé](https://drive.google.com/file/d/1EQ1WmAjW7840mjDWwTzE4s4N3fZ0zwso/view?usp=sharing)
