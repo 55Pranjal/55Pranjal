@@ -34,22 +34,36 @@
 ### 🚀 Featured Projects
 
 **🥽 [Floex VR](https://github.com/55Pranjal/Floex-VR-Trainer)** — VR Training Simulator for a Heart-Lung Machine `Case study`
+
 > Built solo in **Unity for Meta Quest 3**. Reproduces the Floex 3.0 HLM's pump-head touchscreens and physical RPM knobs as interactive 3D objects, with dual ray + poke VR input, RPM-coupled rotor spin, and spatial audio. Used by Floaid to train perfusionists and demo the machine to investors.
 > `Unity` `C#` `Meta Quest 3` `OpenXR` `Meta XR SDK` `URP`
 
 **🏷️ [Pricify](https://github.com/pilot32/price-scraper)** — Multi-Store Price Tracker & Drop Alerts `WIP` · [Backend](https://github.com/55Pranjal/Price-Scraper-Backend)
+
 > Save product URLs across Indian fashion/streetwear stores; background scrapers re-fetch prices into a shared **Supabase** DB and fire in-app + email alerts on price drops. Multi-process: an Express API, a Node 5-site scraper loop, and two Python (FastAPI) scraper microservices.
 > `Express` `Supabase` `Puppeteer` `Playwright` `FastAPI` `React`
 
-**🎟️ [KIIT Events](https://github.com/55Pranjal/KIIT-Events)** — University Event Management Platform `Live` · [kiitevents.netlify.app](https://kiitevents.netlify.app/)
-> A full-stack platform for students and societies — event discovery, RSVPs, organizer dashboards, highlights, and a support module. Secure JWT auth with organizer access control and timezone-correct event handling.
-> `MERN` `Tailwind CSS` `JWT`
-
-**💬 [Uni-Connect](https://github.com/55Pranjal/Uni-Connect)** — Real-time College Community App `Live` · [u-niconnect.netlify.app](https://u-niconnect.netlify.app/)
-> A college community app blending LinkedIn, Discord & GitHub — real-time channels and 1:1 DMs over **Socket.io**, help requests, project collaboration, and a gamified XP system designed to resist farming.
-> `MERN` `Socket.io` `Tailwind CSS` `JWT`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://kiitevents.netlify.app/"><img src="assets/kiit-events.png" width="100%" alt="KIIT Events screenshot" /></a>
+      <h4>🎟️ <a href="https://github.com/55Pranjal/KIIT-Events">KIIT Events</a> &nbsp;·&nbsp; <a href="https://kiitevents.netlify.app/">Live ↗</a></h4>
+      Full-stack university event platform — event discovery, RSVPs, organizer dashboards, highlights, and a support module, with secure JWT auth and timezone-correct event handling.
+      <br/><br/>
+      <sub><code>MERN</code> <code>Tailwind CSS</code> <code>JWT</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://u-niconnect.netlify.app/"><img src="assets/uniconnect.png" width="100%" alt="Uni-Connect screenshot" /></a>
+      <h4>💬 <a href="https://github.com/55Pranjal/Uni-Connect">Uni-Connect</a> &nbsp;·&nbsp; <a href="https://u-niconnect.netlify.app/">Live ↗</a></h4>
+      Real-time college community blending LinkedIn, Discord & GitHub — Socket.io channels & 1:1 DMs, help requests, project collaboration, and a gamified XP system designed to resist farming.
+      <br/><br/>
+      <sub><code>MERN</code> <code>Socket.io</code> <code>JWT</code></sub>
+    </td>
+  </tr>
+</table>
 
 **🧠 [Digital Twin](https://github.com/55Pranjal/Digital-Twin)** — AI Pipeline for Student Academic Insights `WIP`
+
 > An LLM pipeline (Google **Gemini**) that turns a student's structured academic data into tailored insights and recommendations. I own the core request → context → model → response flow.
 > `React` `Node.js` `Gemini API` `MongoDB`
 
@@ -118,10 +132,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/55Pranjal/55Pranjal/output/github-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/55Pranjal/55Pranjal/output/github-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=55Pranjal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
 ---
