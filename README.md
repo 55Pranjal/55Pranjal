@@ -1,7 +1,13 @@
 <h1 align="center">Hi, I'm Pranjal 👋</h1>
 
 <p align="center">
-  <b>Software Developer</b> · I build full-stack, real-time web & mobile products — and recently shipped a <b>medical-VR trainer</b> for a cardiac device.
+  <a href="https://pranjal-ag.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=680&lines=Software+Developer;Full-stack+%26+real-time+web+%26+mobile+apps;Medical-VR+trainer+for+a+cardiac+device;AI+where+it+sharpens+the+product" alt="What I do" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=55Pranjal&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -97,12 +103,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=55Pranjal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=55Pranjal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=55Pranjal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=55Pranjal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<!-- 🐍 Contribution snake — requires the snake.yml GitHub Action (see setup notes). -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/55Pranjal/55Pranjal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/55Pranjal/55Pranjal/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/55Pranjal/55Pranjal/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=55Pranjal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
 ---
