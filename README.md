@@ -33,7 +33,9 @@
 
 ### 🚀 Featured Projects
 
-**🥽 [Floex VR](https://github.com/55Pranjal/Floex-VR-Trainer)** — VR Training Simulator for a Heart-Lung Machine `Case study`
+#### 🥽 [Floex VR](https://github.com/55Pranjal/Floex-VR-Trainer) — VR Training Simulator for a Heart-Lung Machine &nbsp; `Flagship` · `Case study`
+
+https://github.com/user-attachments/assets/e861f723-7f0b-4a29-8c3a-557e115d7faa
 
 > Built solo in **Unity for Meta Quest 3**. Reproduces the Floex 3.0 HLM's pump-head touchscreens and physical RPM knobs as interactive 3D objects, with dual ray + poke VR input, RPM-coupled rotor spin, and spatial audio. Used by Floaid to train perfusionists and demo the machine to investors.
 > `Unity` `C#` `Meta Quest 3` `OpenXR` `Meta XR SDK` `URP`
